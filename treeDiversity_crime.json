@@ -1,0 +1,248 @@
+[
+  {
+    "neighborhood": "bayview hunters point",
+    "crimes": 627,
+    "genus": "Unknown",
+    "treeDiversity": 0
+  },
+  {
+    "neighborhood": "mission",
+    "crimes": 687,
+    "genus": "Prunus",
+    "treeDiversity": 169
+  },
+  {
+    "neighborhood": "south of market",
+    "crimes": 488,
+    "genus": "Platanus",
+    "treeDiversity": 103
+  },
+  {
+    "neighborhood": "twin peaks",
+    "crimes": 5,
+    "genus": "Unknown",
+    "treeDiversity": 0
+  },
+  {
+    "neighborhood": "marina",
+    "crimes": 253,
+    "genus": "Ficus",
+    "treeDiversity": 85
+  },
+  {
+    "neighborhood": "nob hill",
+    "crimes": 173,
+    "genus": "Ficus",
+    "treeDiversity": 62
+  },
+  {
+    "neighborhood": "financial district/south beach",
+    "crimes": 660,
+    "genus": "Unknown",
+    "treeDiversity": 0
+  },
+  {
+    "neighborhood": "mission bay",
+    "crimes": 72,
+    "genus": "Koelreuteria",
+    "treeDiversity": 39
+  },
+  {
+    "neighborhood": "japantown",
+    "crimes": 41,
+    "genus": "Prunus",
+    "treeDiversity": 45
+  },
+  {
+    "neighborhood": "lone mountain/usf",
+    "crimes": 77,
+    "genus": "Unknown",
+    "treeDiversity": 0
+  },
+  {
+    "neighborhood": "inner richmond",
+    "crimes": 80,
+    "genus": "Metrosideros",
+    "treeDiversity": 109
+  },
+  {
+    "neighborhood": "portola",
+    "crimes": 76,
+    "genus": "Acer",
+    "treeDiversity": 92
+  },
+  {
+    "neighborhood": "castro/upper market",
+    "crimes": 207,
+    "genus": "Unknown",
+    "treeDiversity": 0
+  },
+  {
+    "neighborhood": "lakeshore",
+    "crimes": 59,
+    "genus": "Cupressus",
+    "treeDiversity": 9
+  },
+  {
+    "neighborhood": "presidio heights",
+    "crimes": 67,
+    "genus": "Platanus",
+    "treeDiversity": 65
+  },
+  {
+    "neighborhood": "western addition",
+    "crimes": 189,
+    "genus": "Pittosporum",
+    "treeDiversity": 70
+  },
+  {
+    "neighborhood": "chinatown",
+    "crimes": 149,
+    "genus": "Ginkgo",
+    "treeDiversity": 20
+  },
+  {
+    "neighborhood": "north beach",
+    "crimes": 159,
+    "genus": "Ficus",
+    "treeDiversity": 56
+  },
+  {
+    "neighborhood": "pacific heights",
+    "crimes": 145,
+    "genus": "Platanus",
+    "treeDiversity": 101
+  },
+  {
+    "neighborhood": "west of twin peaks",
+    "crimes": 96,
+    "genus": "Unknown",
+    "treeDiversity": 0
+  },
+  {
+    "neighborhood": "tenderloin",
+    "crimes": 463,
+    "genus": "Lophostemon",
+    "treeDiversity": 33
+  },
+  {
+    "neighborhood": "hayes valley",
+    "crimes": 175,
+    "genus": "Platanus",
+    "treeDiversity": 58
+  },
+  {
+    "neighborhood": "outer richmond",
+    "crimes": 134,
+    "genus": "Metrosideros",
+    "treeDiversity": 105
+  },
+  {
+    "neighborhood": "haight ashbury",
+    "crimes": 55,
+    "genus": "Ficus",
+    "treeDiversity": 53
+  },
+  {
+    "neighborhood": "potrero hill",
+    "crimes": 91,
+    "genus": "Prunus",
+    "treeDiversity": 175
+  },
+  {
+    "neighborhood": "sunset/parkside",
+    "crimes": 179,
+    "genus": "Unknown",
+    "treeDiversity": 0
+  },
+  {
+    "neighborhood": "treasure island",
+    "crimes": 17,
+    "genus": "Unknown",
+    "treeDiversity": 0
+  },
+  {
+    "neighborhood": "noe valley",
+    "crimes": 55,
+    "genus": "Prunus",
+    "treeDiversity": 138
+  },
+  {
+    "neighborhood": "outer mission",
+    "crimes": 79,
+    "genus": "Tristaniopsis",
+    "treeDiversity": 58
+  },
+  {
+    "neighborhood": "inner sunset",
+    "crimes": 65,
+    "genus": "Prunus",
+    "treeDiversity": 71
+  },
+  {
+    "neighborhood": "bernal heights",
+    "crimes": 125,
+    "genus": "Prunus",
+    "treeDiversity": 140
+  },
+  {
+    "neighborhood": "visitacion valley",
+    "crimes": 60,
+    "genus": "Prunus",
+    "treeDiversity": 63
+  },
+  {
+    "neighborhood": "russian hill",
+    "crimes": 79,
+    "genus": "Ficus",
+    "treeDiversity": 103
+  },
+  {
+    "neighborhood": "oceanview/merced/ingleside",
+    "crimes": 53,
+    "genus": "Unknown",
+    "treeDiversity": 0
+  },
+  {
+    "neighborhood": "glen park",
+    "crimes": 18,
+    "genus": "Corymbia",
+    "treeDiversity": 80
+  },
+  {
+    "neighborhood": "excelsior",
+    "crimes": 80,
+    "genus": "Prunus",
+    "treeDiversity": 103
+  },
+  {
+    "neighborhood": "golden gate park",
+    "crimes": 50,
+    "genus": "Pinus",
+    "treeDiversity": 6
+  },
+  {
+    "neighborhood": "mclaren park",
+    "crimes": 5,
+    "genus": "Pinus",
+    "treeDiversity": 3
+  },
+  {
+    "neighborhood": "seacliff",
+    "crimes": 1,
+    "genus": "Metrosideros",
+    "treeDiversity": 38
+  },
+  {
+    "neighborhood": "presidio",
+    "crimes": 4,
+    "genus": "Unknown",
+    "treeDiversity": 0
+  },
+  {
+    "neighborhood": "lincoln park",
+    "crimes": 2,
+    "genus": "Unknown",
+    "treeDiversity": 0
+  }
+]
